@@ -1,4 +1,4 @@
-# SentimentAnalysisOnTurkishTweets
+# Sentiment Analysis On Turkish Tweets
 
 In this work, I examined sentiment analysis, sentiment analysis in Turkish texts, sentiment analysis with social media data. Then I developed an application where I used machine learning methods for sentiment analysis. 
 
